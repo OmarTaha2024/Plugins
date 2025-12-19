@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Xrm.TypedQuery</name>
+    </assembly>
+    <members>
+        <member name="T:Xrm.TypedQuery.ColumnSet`1">
+            <summary>
+            Provides ability to construct regular <see cref="T:Microsoft.Xrm.Sdk.Query.ColumnSet"/> using strongly typed properties as columns instead strings and avoid typo and mismatches
+            </summary>
+            <typeparam name="TEntity">Early-bound proxy-class entity type</typeparam>
+        </member>
+        <member name="T:Xrm.TypedQuery.QueryExpression`1">
+            <summary>
+            Provides ability to construct regular <see cref="T:Microsoft.Xrm.Sdk.Query.QueryExpression"/> using strongly typed <see cref="T:Xrm.TypedQuery.ColumnSet`1"/>
+            </summary>
+            <typeparam name="TEntity">Early-bound proxy-class entity type</typeparam>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Plugins\\LearnTargetinAllStages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A41441-CFCE-46BF-90CC-F0BF00BFC080}|LearnTargetinAllStages.csproj|d:\\plugins\\learntargetinallstages\\setstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A41441-CFCE-46BF-90CC-F0BF00BFC080}|LearnTargetinAllStages.csproj|solutionrelative:setstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A41441-CFCE-46BF-90CC-F0BF00BFC080}|LearnTargetinAllStages.csproj|d:\\plugins\\learntargetinallstages\\createtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A41441-CFCE-46BF-90CC-F0BF00BFC080}|LearnTargetinAllStages.csproj|solutionrelative:createtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A41441-CFCE-46BF-90CC-F0BF00BFC080}|LearnTargetinAllStages.csproj|D:\\Plugins\\LearnTargetinAllStages\\learncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A41441-CFCE-46BF-90CC-F0BF00BFC080}|LearnTargetinAllStages.csproj|solutionrelative:learncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetState.cs",
+              "DocumentMoniker": "D:\\Plugins\\LearnTargetinAllStages\\SetState.cs",
+              "RelativeDocumentMoniker": "SetState.cs",
+              "ToolTip": "D:\\Plugins\\LearnTargetinAllStages\\SetState.cs",
+              "RelativeToolTip": "SetState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:12:24.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "createTarget.cs",
+              "DocumentMoniker": "D:\\Plugins\\LearnTargetinAllStages\\createTarget.cs",
+              "RelativeDocumentMoniker": "createTarget.cs",
+              "ToolTip": "D:\\Plugins\\LearnTargetinAllStages\\createTarget.cs",
+              "RelativeToolTip": "createTarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:03:39.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "learnContext.cs",
+              "DocumentMoniker": "D:\\Plugins\\LearnTargetinAllStages\\learnContext.cs",
+              "RelativeDocumentMoniker": "learnContext.cs",
+              "ToolTip": "D:\\Plugins\\LearnTargetinAllStages\\learnContext.cs",
+              "RelativeToolTip": "learnContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:51:25.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

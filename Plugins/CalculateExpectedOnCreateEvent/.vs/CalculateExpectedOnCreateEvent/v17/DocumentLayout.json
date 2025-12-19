@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Plugins\\CalculateExpectedOnCreateEvent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECD18A9-9541-4E33-9C79-7B3CC02F40D8}|CalculateExpectedOnCreateEvent.csproj|d:\\plugins\\calculateexpectedoncreateevent\\calcallrolluponcreateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECD18A9-9541-4E33-9C79-7B3CC02F40D8}|CalculateExpectedOnCreateEvent.csproj|solutionrelative:calcallrolluponcreateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CalculateExpectedOnCreateEvent||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECD18A9-9541-4E33-9C79-7B3CC02F40D8}|CalculateExpectedOnCreateEvent.csproj|d:\\plugins\\calculateexpectedoncreateevent\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcAllRollupOnCreateEvent.cs",
+              "DocumentMoniker": "D:\\Plugins\\CalculateExpectedOnCreateEvent\\CalcAllRollupOnCreateEvent.cs",
+              "RelativeDocumentMoniker": "CalcAllRollupOnCreateEvent.cs",
+              "ToolTip": "D:\\Plugins\\CalculateExpectedOnCreateEvent\\CalcAllRollupOnCreateEvent.cs",
+              "RelativeToolTip": "CalcAllRollupOnCreateEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:12:20.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateExpectedOnCreateEvent",
+              "DocumentMoniker": "D:\\Plugins\\CalculateExpectedOnCreateEvent\\CalculateExpectedOnCreateEvent.csproj",
+              "RelativeDocumentMoniker": "CalculateExpectedOnCreateEvent.csproj",
+              "ToolTip": "D:\\Plugins\\CalculateExpectedOnCreateEvent\\CalculateExpectedOnCreateEvent.csproj",
+              "RelativeToolTip": "CalculateExpectedOnCreateEvent.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-14T18:14:37.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
