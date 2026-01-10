@@ -1,4 +1,0 @@
-function testAlert() {
-    alert("Test");
-
-}
